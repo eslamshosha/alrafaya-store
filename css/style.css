@@ -798,6 +798,10 @@ html[dir="rtl"] .add-to .dropdown-content {
   }
 }
 @media (max-width: 500px) {
+  .figure-wrapper{
+    width: 120px;
+    height: 120px;
+  }
   .category-box figure {
     width: 75px;
     height: 75px;
