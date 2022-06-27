@@ -113,9 +113,13 @@ $(document).ready(function () {
           slidesPerView: 2,
           spaceBetween: 15,
         },
+        359: {
+          slidesPerView: 3,
+          spaceBetween: 15,
+        },
         767: {
-          slidesPerView: 2,
-          spaceBetween: 20,
+          slidesPerView: 3,
+          spaceBetween: 15,
         },
         992: {
           slidesPerView: 3,
