@@ -1355,7 +1355,7 @@ html[dir="rtl"] .reviews-slider .reviews-cont::before {
   .reviews-slider .reviews-cont {
     flex-direction: column;
     align-items: center;
-    padding: 40px 25px;
+    padding: 30px;
   }
   .reviews-cont figure {
     margin: 0;
